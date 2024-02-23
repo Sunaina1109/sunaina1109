@@ -1,4 +1,4 @@
-![logo](https://github.com/Sunaina1109/sunaina1109/blob/main/Github_Banner.png)
+![logo](https://github.com/Sunaina1109/sunaina1109/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sunaina Srivastava</h1>
 <h3 align="center">A passionate about the development.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif"
