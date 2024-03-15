@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaina1109&label=Profile%20views&color=0e75b6&style=flat" alt="sunaina1109" /> </p>
 
-- 🔭 I’m currently working on **Alfa Infra Projects**
+- 🔭 I’m currently working as **Freelancer**
 
 - 🌱 I’m currently learning **full-Stack development**
 
